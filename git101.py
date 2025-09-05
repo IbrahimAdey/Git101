@@ -6,3 +6,6 @@ def multiply_two_numbers(a, b):
     return a * b
 def divide_two_numbers(a, b):
     return a / b
+
+def square_of_numbers(a):
+    return a * a
