@@ -9,3 +9,5 @@ def divide_two_numbers(a, b):
 
 def square_of_numbers(a):
     return a * a
+def cube_of_numbers(a):
+    return a * a * a
